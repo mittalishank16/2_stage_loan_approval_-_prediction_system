@@ -1,0 +1,19 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+#ydata-profiling #pandas-profiling new name
+shap
+joblib
+gradio
+mlflow
+optuna
+missingno
+yellowbrick
+statsmodels
+xgboost
+tensorflow
+fastapi 
+uvicorn 
+pydantic

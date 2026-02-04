@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+data
+*.csv
+
+*.db
+*.png
+
+mlruns
+*ipynb
+saved_models
+saved_models_classification
+referemce_regression_Loan_amount_prediction.ipynb
+notebook
